@@ -46,7 +46,7 @@ Existing food delivery apps have proven the value of a no-minimum-order policy a
 The Automated Diet Food Delivery App provides a streamlined, health-conscious solution for customers to order dietary meals without the hassle of waiting for a waiter in busy restaurants. By enabling customers to directly place orders with the kitchen staff, this app reduces wait times and eases the workload for restaurant employees. This project addresses the need for a specialized food delivery service focused on health and dietary needs.
 
 ## References
-1. [Existing Food Delivery App Business Model](https://whatisthebusinessmodelof.com/business-models/existing-app-business-model/#:~:text=cloud%20kitchen%20boom.-,Existing%20app%27s%20Business%20Model,Drop%20Service)%20%26%20affiliate%20income)
+1. [Existing Food Delivery App Business Model](https://whatisthebusinessmodelof.com/business-models/existing-app-business-model/#:~:text=cloud%20kitchen%20boom.-,Existing%20app%27s%20Business%20Model,Drop%20Service)
 2. [Online Food Ordering System - Space-O Technologies](https://www.spaceotechnologies.com/blog/online-food-ordering-system-advantages-disadvantages/)
 
 ---
