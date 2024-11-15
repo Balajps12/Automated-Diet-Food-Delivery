@@ -4,7 +4,6 @@
 This project proposes an **Automated Diet Food Delivery System** designed to simplify and streamline the food ordering process, especially for health-conscious users. The system provides a user-friendly interface that allows customers to schedule dietary food plans, customize options, and order meals from preferred restaurants. The app updates in real-time, assisting restaurant staff in efficiently managing and processing orders with minimal errors.
 
 ## Table of Contents
-- [Acknowledgements](#acknowledgements)
 - [Executive Summary](#executive-summary)
 - [Project Overview](#project-overview)
 - [Objective](#objective)
